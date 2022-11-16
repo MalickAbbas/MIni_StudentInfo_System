@@ -1,0 +1,10 @@
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\bin\Debug\StdInfo.exe.config
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\bin\Debug\StdInfo.exe
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\bin\Debug\StdInfo.pdb
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.csprojResolveAssemblyReference.cache
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.Form1.resources
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.Properties.Resources.resources
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.csproj.GenerateResource.Cache
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.exe
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.pdb
+D:\vp\LABS\Lab-04\StdInfo\StdInfo\obj\Debug\StdInfo.Form2.resources
